@@ -1,0 +1,27 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone",
+        "description": "Latest model, 128GB, fast processor",
+        "price": 799,
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 2,
+        "name": "Laptop",
+        "description": "14-inch, 8GB RAM, 512GB SSD",
+        "price": 1299,
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 3,
+        "name": "Headphones",
+        "description": "Noise-cancelling, wireless",
+        "price": 199,
+        "image": "https://via.placeholder.com/200"
+      }
+    ],
+    "orders": []
+  }
+  
